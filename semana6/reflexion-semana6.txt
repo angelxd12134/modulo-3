@@ -1,0 +1,10 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+La recepción de reportes ciudadanos de forma estructurada es clave para transformar la
+participación en un ejercicio eficiente. Al organizar la información en campos específicos y
+formatos estandarizados, las plataformas pueden automatizar la clasificación y asignación de
+los casos, eliminando el "ruido" del texto libre y acelerando los tiempos de respuesta.
+Asimismo, los datos estructurados facilitan el análisis masivo para generar estadísticas y mapas
+de calor que sustenten la toma de decisiones. Finalmente, esta estandarización permite la
+interoperabilidad entre sistemas; así, un reporte comunitario puede transmitirse de forma
+directa y segura a las entidades competentes, optimizando las rutas de seguimiento
+institucional y asegurando una fiscalización transparente.

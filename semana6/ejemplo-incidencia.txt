@@ -1,0 +1,2 @@
+ "tipo": "robos en zonas poco ilumnadas",
+  "descripcion": "la comunidad reporta robos en la esquina donde hay poca luz"
