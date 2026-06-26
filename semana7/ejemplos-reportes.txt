@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "seguridad",
+  "descripcion": "alta de señalización vial y reductores de velocidad en zona escolar"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Aseo",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
+}

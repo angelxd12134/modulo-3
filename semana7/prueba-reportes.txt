@@ -1,0 +1,13 @@
+Al realizar una petición GET a la ruta http://localhost:3000/reportes, el servidor Express responde con un arreglo en formato JSON que contiene todos los reportes ciudadanos almacenados en la memoria (`let reportes = [];`). 
+
+Inicialmente, si el servidor se acaba de encender, el arreglo estará vacío `[]`. Sin embargo, después de realizar con éxito una petición POST para registrar el primer reporte de "Infraestructura", la consulta GET devuelve el arreglo actualizado con dicho elemento.
+
+Ejemplo de respuesta esperada:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
